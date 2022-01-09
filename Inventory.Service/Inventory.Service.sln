@@ -1,12 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Api", "app\Inventory.Api\Inventory.Api.csproj", "{F6E9E493-D9B9-487A-AA57-DCAEC6F1ECBA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Core", "app\Inventory.Core\Inventory.Core.csproj", "{41B645EE-F681-48D0-AE63-740C673D68CA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Infrastructure", "app\Inventory.Infrastructure\Inventory.Infrastructure.csproj", 
-"{2E83C8A3-48AD-43F1-9C41-5D9AC0A5869F}"
-EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Api", "app\Inventory.Api\Inventory.Api.csproj", "{F6E9E493-D9B9-487A-AA57-DCAEC6F1ECBA}" EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Core", "app\Inventory.Core\Inventory.Core.csproj", "{41B645EE-F681-48D0-AE63-740C673D68CA}" EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Infrastructure", "app\Inventory.Infrastructure\Inventory.Infrastructure.csproj", "{2E83C8A3-48AD-43F1-9C41-5D9AC0A5869F}" EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
